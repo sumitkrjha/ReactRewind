@@ -5,9 +5,9 @@ An educational deconstruction of the React.js library to understand its core pri
 ---
 
 ## 📸 Screenshots
-![image](https://github.com/user-attachments/assets/cce051cf-b738-4e64-ab63-f6745ec182ae)
+![Screenshot (53)](https://github.com/user-attachments/assets/aaebfc87-8968-4f15-8653-b6eb7d2c5195)
 
-![image](https://github.com/user-attachments/assets/cee02b04-af3a-4474-bcc5-bb8112d85255)
+![Screenshot (54)](https://github.com/user-attachments/assets/14896379-5b62-407d-9f73-ac5fc9d71ede)
 
 ---
 
