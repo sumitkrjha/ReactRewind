@@ -1,0 +1,35 @@
+#bgContainer {
+  height: 100vh;
+  width: 100%;
+}
+
+#colorControllerContainer {
+  height: 100px;
+  width: 100%;
+  position: absolute;
+  bottom: 30px;
+  /* background-color: beige; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#paletteBox {
+  height: 60px;
+  width: auto;
+  border-radius: 10px;
+  background-color: white;
+  padding: 5px 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+}
+
+#color {
+  padding: 10px;
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+  font-weight: 600;
+}
